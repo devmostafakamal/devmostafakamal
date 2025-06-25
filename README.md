@@ -1,4 +1,7 @@
-<img src="your-banner-image-url" alt="banner" />
+<p align="center">
+  <img src="https://i.ibb.co/LzhdGYDs/person-playing-3d-video-games-device.jpg" width="100%" />
+</p>
+
 
 ### 👋 Hi, I’m Mostafa Kamal
 #### 💻 Full Stack Web Developer | MERN | Firebase | Tailwind
