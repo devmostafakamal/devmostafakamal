@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/LzhdGYDs/person-playing-3d-video-games-device.jpg" width="100%" />
+  <img src="https://i.ibb.co/LzhdGYDs/person-playing-3d-video-games-device.jpg" style="width:100%; height:300px; object-fit:cover;" />
 </p>
+
 
 
 ### 👋 Hi, I’m Mostafa Kamal
