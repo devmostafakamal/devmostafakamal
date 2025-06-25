@@ -32,15 +32,17 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/yourprofile)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdmostafakamal.kamal.589)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
 
 ---
 
 ### 📊 GitHub Stats
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmostafakamal&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmostafakamal&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devmostafakamal&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
