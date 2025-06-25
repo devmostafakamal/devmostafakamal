@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/LzhdGYDs/person-playing-3d-video-games-device.jpg" style="width:100%; height:300px; object-fit:cover;" />
+  <img src="https://i.ibb.co/QjfFg8Sm/BANNER7.png" style="width:100%;" />
 </p>
 
 
