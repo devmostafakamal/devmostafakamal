@@ -45,4 +45,50 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devmostafakamal&theme=tokyonight)](https://git.io/streak-stats)
 
 
+# 🏃‍♂️ Marathon Management App
+
+Smart marathon event management system with event creation, participant registration, countdown timers, and Firebase authentication.
+
+### 🔗 Live Demo  
+[Visit Now](https://marathon-management-syst-2261d.web.app/)
+
+---
+
+## 🖼️ Screenshot
+
+![App Screenshot](public/screenshots/homepage.png) 
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS, React Hook Form  
+- **Backend:** Firebase Authentication, Firestore Database  
+- **UI Libraries:** SweetAlert2, React Toastify  
+
+---
+
+## ✨ Features
+
+- 🏃 Create and manage marathon events  
+- 📝 User registration with auto-filled fields  
+- 📆 Countdown timer for upcoming marathons  
+- 🔍 Search and sort marathon listings  
+- 📄 User dashboards: Applied marathons, Created marathons  
+- 🔐 Firebase-based authentication  
+- 🔁 Reusable toast notifications, loading spinner  
+- ❌ 404 error page, route protection  
+
+---
+
+## 📦 Dependencies
+
+```json
+"react": "^18.x",
+"react-hook-form": "^7.x",
+"firebase": "^9.x",
+"sweetalert2": "^11.x",
+"react-hot-toast": "^2.x",
+"moment": "^2.x",
+"axios": "^1.x"
 
