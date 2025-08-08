@@ -11,6 +11,7 @@
 - 🔭 Currently working on a **Parcel Delivery Web App**.
 - 🌱 Exploring **Next.js**, **JWT Auth**, and **Map Integration** in React.
 - 📫 How to reach me: [Facebook Messenger](https://www.facebook.com/mdmostafakamal.kamal.589)
+- 📞 Phone: +8801614797956
 - ⚡ Fun fact: I love turning ideas into functional, beautiful websites.
 
 ---
