@@ -4,7 +4,7 @@
 
 # 👋 Hello! I'm Mostafa Kamal
 
-[Portfolio](https://your-portfolio-link.com) • [Facebook](https://www.facebook.com/mdmostafakamal.kamal.589) •  💼 **LinkedIn:** [linkedin.com/in/md-mostafa-kamal](https://www.linkedin.com/in/md-mostafa-kamal5/) 
+[Portfolio](https://your-portfolio-link.com) • [Facebook](https://www.facebook.com/mdmostafakamal.kamal.589) •  💼 **LinkedIn:** (https://www.linkedin.com/in/md-mostafa-kamal5/) 
 
 - 💻 I'm a **Full Stack Web Developer** specializing in **MERN, Firebase, Tailwind**.
 - 🚀 Passionate about building dynamic & responsive web apps.
