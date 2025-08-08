@@ -27,9 +27,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmostafakamal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmostafakamal&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devmostafakamal&theme=tokyonight)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=devmostafakamal&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmostafakamal&layout=compact&theme=tokyonight" />
+</p>
+
 
 
