@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/QjfFg8Sm/BANNER7.png" style="width:100%;" />
+</p>
+
 # 👋 Hello! I'm Mostafa Kamal
 
 [Portfolio](https://your-portfolio-link.com) • [Facebook](https://www.facebook.com/mdmostafakamal.kamal.589) • [GitHub](https://github.com/devmostafakamal)
